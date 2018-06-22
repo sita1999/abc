@@ -5,6 +5,7 @@ public class a {
 		int a=1, b=2;
 		System.out.print(a+b);
 		System.out.print(a-b);
+		System.out.print(a*b);
 	}
 
 }
